@@ -15,3 +15,5 @@
 [What is SEO? Next에서 제공하는 SEO 가이드](https://nextjs.org/learn-pages-router/seo/introduction-to-seo)
 
 [SEO진단 사이트-SEO Site Checkup](https://seositecheckup.com/)
+
+[Schema.org로 웹 콘텐츠 구조화하기](https://blog.outsider.ne.kr/1214)
